@@ -1,40 +1,17 @@
 <!doctype html>
 
-<!-- the below is html boilerplate using my alias "simplehtml" found in .zshrc file -->
-<!-- <html lang="en">
-<head>
-  <meta charset="utf-8">
-  <title>Nashville Software School</title>
-  <link rel="stylesheet" href="./styles.css">
-</head>
-<body>
-  <nav></nav>
-  <header>Header</header>
-  <h1> H1 </h1>
-  <div id="display-container"> display-container </div>
-  <article>
-    <header></header>
-    <section></section>
-    <footer></footer>
-  </article>
-  <footer class="footer">  &copy; 2019 Grady M. Robbins </footer>
-  <script src="main.js"></script>
-</body>
-</html>
- -->
-
-
-
 <!-- below is boilerplate for Jumpstart lesson 1 -->
 <!-- Basic HTML tag/element which contains all of the HTML in your page  -->
-<html>
+<html lang="en">
 
 <!-- The head tag/element contains can title for the document, scripts, styles, meta information, and more  ***None of these things will be visible in your page-->
 <head>
+    <!-- The "meta" is info in the head. charset = character set utf-8 is character encoding capable of encoding all characters on the web. ... Because it is the default all modern browsers will use utf-8 without being explicitly told to do so. It remains in meta data as a common good practice. -->
+    <meta charset="utf-8">
 <!--  The <title> tag is required in all HTML documents - defines a title in the browser toolbar, provides a title for the page when it is added to favorites, displays a title for the page in search-engine results  -->
   <title>My first webpage</title>
-<!--  links you css styles  -->
-  <link rel="stylesheet" href="">
+<!--  links your css styles  -->
+  <link rel="stylesheet" href="./styles.css">
   </head>
 <!-- Contains visible contents of an HTML document, such as text, hyperlinks, images, tables, lists, etc (in addition it will contain links to JavaScript files, always just before closing body tag -->
 <body>
@@ -51,7 +28,7 @@
 <!--  Defines a division or a section in an HTML document. Think of it as an all purpose rubbermaid bin as opposed to a conatiner which only fits particular items  -->
   <div>
 <!--   The p tag contains text   -->
-    <p><em>Italicized Text</em>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium, quas cumque. Possimus incidunt in sapiente voluptate illum ipsam aut blanditiis optio ab, quisquam dolorum, laudantium ad accusamus quia consequuntur at!
+    <p><em>Italicized Text</em> Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium, quas cumque. Possimus incidunt in sapiente voluptate illum ipsam aut blanditiis optio ab, quisquam dolorum, laudantium ad accusamus quia consequuntur at!
       <strong>Bold text</strong></p>
 <!--   br creates a line break or return   -->
     <br>
@@ -68,12 +45,12 @@
   <div>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam aperiam illum totam dignissimos tempora accusantium itaque dolor animi quod vitae. Adipisci ipsam laudantium doloremque dolorem eius natus atque eligendi temporibus!</div>
   <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi, quasi, fuga voluptates quos incidunt laudantium perspiciatis nemo explicabo atque quis, tenetur amet sunt impedit qui in minima odit minus nihil.</div>
   <hr>
-<!--  The span tag allows parts of ontent to be grouped so that styles can be applied to that section only -->
+<!--  The span tag allows parts of content to be grouped so that styles can be applied to that section only -->
   <span>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Accusantium consectetur eveniet, in saepe explicabo aliquid dignissimos doloremque, molestiae facere ea minima accusamus deleniti adipisci! Aliquam illum nihil debitis explicabo iusto.</span>
   <span>SECOND SPAN TAG Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quod animi aliquam, vel ipsam fugit suscipit ea quae praesentium quos iusto earum, soluta iure autem nam dicta officia repudiandae beatae quibusdam.</span>
 
 <!--  An article tag contains sections of related content  -->
-  <article>
+  <article id="display-container"> #display-container
 <!--   Sections contain the content - headers, paragraphs, etc.   -->
     <section>
       <h3>About me</h3>
@@ -92,10 +69,13 @@
     </section>
   </article>
 <!--  Footer contains content to appear on bottom of page  -->
-  <footer>
+  <footer class="footer">
+      &copy; 2019
 <!--   the a or anchor tag contains urls   -->
-    <a href="http://www.wikipedia.com">Wikipedia</a>
+<a href="https://gradyrobbins.github.io/">Grady M. Robbins</a>
   </footer>
+
+  <script src="main.js"></script>
 </body>
 
 </html>
