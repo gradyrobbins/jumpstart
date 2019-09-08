@@ -1,11 +1,11 @@
 # NASHVILLE SOFTWARE SCHOOL 
 ## WEB DEVELOPMENT JUMPSTART
-[ ARE YOU INTRIGUED BY THE WORLD OF WEB DEVELOPMENT? ](http://nashvillesoftwareschool.com/programs/web-development-jumpstart)
+[ARE YOU INTRIGUED BY THE WORLD OF WEB DEVELOPMENT? ](http://nashvillesoftwareschool.com/programs/web-development-jumpstart)
 
-### Prerequisites for students:
+### PREREQUISITES:
 1. Chrome browser installed
-2. register for a [Slack](https://slack.com/) account
-3. register for a [codepen](www.codepen.io) account; "pro" plan is recommended ~ $20/month
+2. Register for a [Slack](https://slack.com/) account
+3. Register for a [codepen](www.codepen.io) account; "pro" plan is recommended ~ $20/month
 
 
 ### CURRICULUM:
