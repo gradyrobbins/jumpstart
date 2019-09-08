@@ -8,10 +8,10 @@
 1. register for a [codepen](www.codepen.io) account; "pro" plan is recommended ~ $20/month
 
 
-
-- [ ] day 1:   Intro's, setup, cover Material in Class1 and Class2, can be covered over approx 4-5 hrs :
+### Syllabus:
+- [ ] Session 1:   Intro's, setup, cover Material in both Class1 and Class2, can be covered over approx 4-5 hrs :
 [slides](https://docs.google.com/presentation/d/1o7Dm4JWRSDLV-EpCkuxY1S3vfdwHwEZ_gfviVkfST40/edit#slide=id.g3ebffc7b5f_2_50)
 
-- [ ] day 2: Review, Class 3
+- [ ] Session 2: Review, cover Material in Class 3
 
 
