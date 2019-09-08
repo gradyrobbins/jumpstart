@@ -1,4 +1,5 @@
-# NASHVILLE SOFTWARE SCHOOL WEB DEVELOPMENT JUMPSTART
+# NASHVILLE SOFTWARE SCHOOL 
+## WEB DEVELOPMENT JUMPSTART
 [ ARE YOU INTRIGUED BY THE WORLD OF WEB DEVELOPMENT? ](http://nashvillesoftwareschool.com/programs/web-development-jumpstart)
 
 ### Prerequisites for students:
