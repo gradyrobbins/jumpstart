@@ -9,10 +9,7 @@
 
 [google_doc](https://docs.google.com/presentation/d/1o7Dm4JWRSDLV-EpCkuxY1S3vfdwHwEZ_gfviVkfST40/edit#slide=id.g3ebffc7b5f_2_50) for day 1:  these notes cover Class1 and Class2, can be covered over approx 4-5 hrs :
 
-### CLASS 1 :
-- [ ] Intro to Codepen
-- [ ] HTML101
-- [ ] HTML102
+
 
 ### CLASS 2 :
 - [ ] CSS 101
