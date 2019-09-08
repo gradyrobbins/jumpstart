@@ -11,6 +11,7 @@
 
 ### CLASS 1 :
 - [ ] Intro to Codepen
-- [ ] LESSON
-- [ ] EXERCISES
+- [ ] HTML101
+- [ ] HTML102
+
 
