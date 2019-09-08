@@ -4,7 +4,7 @@
 
 ### Prerequisites for students:
 1. Chrome browser installed
-2. register for a [Slack](https://slack.com/) account, search for workspace address:  nssjumpstart.slack.com
+2. register for a [Slack](https://slack.com/) account
 3. register for a [codepen](www.codepen.io) account; "pro" plan is recommended ~ $20/month
 
 
