@@ -1,5 +1,5 @@
 # NASHVILLE SOFTWARE SCHOOL WEB DEVELOPMENT JUMPSTART
-[ more information ](http://nashvillesoftwareschool.com/programs/web-development-jumpstart)
+[ ARE YOU INTRIGUED BY THE WORLD OF WEB DEVELOPMENT? ](http://nashvillesoftwareschool.com/programs/web-development-jumpstart)
 
 ### Prerequisites for students:
 1. Chrome browser installed
@@ -19,6 +19,6 @@
 
 - [ ] Session 2: Review, cover Material in Class 3
 
-  
+
 
 
