@@ -21,8 +21,23 @@ body {font-family: helvetica, arial, sans-serif;
   margin: 0 25px 0 0 ;
 }
 
-.exercises {
+.instructions {
+  padding: 10px;
+  margin: 10px;
+  background-color: lightskyblue;
+}
+
+.wireframe {
   padding: 10px;
   margin: 10px;
   border: 5px solid black;
+}
+
+
+.tab {
+  padding-left:2em
+}
+
+.doubletab {
+  padding-left:3em
 }

@@ -1,11 +1,11 @@
-# NASHVILLE SOFTWARE SCHOOL 
+# NASHVILLE SOFTWARE SCHOOL
 ## WEB DEVELOPMENT JUMPSTART
 [ ARE YOU INTRIGUED BY THE WORLD OF WEB DEVELOPMENT? ](http://nashvillesoftwareschool.com/programs/web-development-jumpstart)
 
 ### Prerequisites for students:
 1. Chrome browser installed
-2. register for a [Slack](https://slack.com/) account
-3. register for a [codepen](www.codepen.io) account; "pro" plan is recommended ~ $20/month
+2. Register for a [Slack](https://slack.com/) account
+3. Register for a [Codepen](www.codepen.io) account; "pro" plan is recommended ~ $12/month
 
 
 ### CURRICULUM:
@@ -15,11 +15,11 @@
 
 ### SYLLABUS:
 
-- [ ] Session 1:   Intro's, setup, cover Material in both Class1 and Class2, can be covered over approx 4-5 hrs :
-[slides](https://docs.google.com/presentation/d/1o7Dm4JWRSDLV-EpCkuxY1S3vfdwHwEZ_gfviVkfST40/edit#slide=id.g3ebffc7b5f_2_50)
+- [ ] First day of class(can be covered over approx 4-5 hrs):   Intro's, setup, cover material in both Class1 and Class2,  :
+[Session 1 slide deck](https://docs.google.com/presentation/d/1o7Dm4JWRSDLV-EpCkuxY1S3vfdwHwEZ_gfviVkfST40/edit#slide=id.g3ebffc7b5f_2_50)
 
-- [ ] Session 2: Review, cover Material in Class 3
+- [ ] Second day of class(3 hours of classtime):  Review of previous class, then cover material in Class 3.
+[Session 2 slide deck](https://docs.google.com/presentation/d/1wyMS9tT9Nu1HMuSvixX9Xcy3xQid8lDLSKu83VLPaUA/edit#slide=id.g3fa6e86bed_2_151)
 
-
-
+- [ ] Third day of class(3 hours of classtime): Review, address any questions, then cover material in Class 4.
 
