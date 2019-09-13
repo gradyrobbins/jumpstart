@@ -22,3 +22,7 @@
 
 - [ ] Third day of class(3 hours of classtime): Review, address any questions, then cover material in Class 4.
 
+### ideas for improvments:
+- [ ] First day of class:  Build a mockup of the exercise, using escape characters like  &lt; [&lt;] AND [&gt;] &gt;
+
+- [ ] Second day of class:  Find a way to illustrate a "before" and "after" version of the CSS exercise with the fabulous romper and okay door so students can see what their goal is
