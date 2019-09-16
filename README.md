@@ -36,10 +36,12 @@
 ### ideas for improvements:
 - [ ] general prep:  Ensure nametags, desk tents, arrow pointing the way to the correct classroom is posted at the elevators, NSS swag/stickers are laid out for the incoming students
 
-- [ ] First day of class:  Build a mockup of the exercise, using escape characters like  **&lt;** AND **&gt;**
+- [ ] First day of class:  Build a mockup of the exercise, using escape characters to flesh out html elements like:  **&lt;** h1 **&gt;** h1 element **&lt;** /h1 **&gt;**
 
 - [ ] Second day of class:  Find a way to illustrate a "before" and "after" version of the CSS exercise with the fabulous romper and okay door, so students can see what their goal is
 
 - [ ] third day of class i was absent
 
-- [ ] fourth day of class improvements?
+- [ ] fourth day of class improvements
+
+- [ ] fifth day of class improvements:
