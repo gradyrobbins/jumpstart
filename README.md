@@ -28,7 +28,7 @@
     [Session 4 slide deck](
     [Session 4 Slide deck](https://docs.google.com/presentation/d/1_k_xV3-935OHNSmCL20vI1MLr3OeXrXzCx8_fP_NFTU/edit?usp=sharing)
 )
-- [ ] Fifth day of class(3 hours of classtime):  today we adjusted the syllabus on scheduling conflicts with guest speaker;  So we are going to cover the Class 6:  JQUERY and the Sixth day of class will cover the tech jobs talk
+- [ ] Fifth day of class(3 hours of classtime):  today we adjusted the syllabus on scheduling conflicts with guest speaker;  So we are going to skip ahead and cover Class 6:  JQUERY
 
 
 
