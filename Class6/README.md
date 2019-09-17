@@ -1,6 +1,6 @@
 # JQUERY
 
-## SLIDE DECK COMING SOON
+## [SLIDE DECK](https://docs.google.com/presentation/d/1s0t3pm3Eb__v3hQwAE8OcOI6z9oOcXlnsHPjR_Ed1EU/edit#slide=id.g50c455d265_1_0)
 
 ### OVERVIEW:
 
@@ -18,6 +18,7 @@ Attributes
 Parent/Child Relationships
     _Mini Challenge 2_ link [problem](https://codepen.io/nss-web-development-jumpstart/pen/oeyQMP?editors=1011)
     [solution](https://codepen.io/gradyrobbins/pen/bKqPOO)
+
 
 Click Event
     _Mini Challenge 3_ linked [problem](https://codepen.io/nss-web-development-jumpstart/pen/jLKQvr?editors=1011)
