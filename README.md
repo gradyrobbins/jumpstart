@@ -25,23 +25,22 @@
     [Session 3 Slide deck](https://docs.google.com/presentation/d/1EaqO0sw5iv25P91sj6DD6dhhzPCQdi7GWDd4avTyCVQ/edit#slide=id.g545954d854_0_0)
 
 - [ ] Fourth day of class(5 hours of classtime): Review class3 and cover material in class 4
-    [Session 4 slide deck](
-    [Session 4 Slide deck](https://docs.google.com/presentation/d/1_k_xV3-935OHNSmCL20vI1MLr3OeXrXzCx8_fP_NFTU/edit?usp=sharing)
-)
+    [Session 4 slide deck](https://docs.google.com/presentation/d/1_k_xV3-935OHNSmCL20vI1MLr3OeXrXzCx8_fP_NFTU/edit?usp=sharing)
+
 - [ ] Fifth day of class(3 hours of classtime):  today we adjusted the syllabus on scheduling conflicts with guest speaker;  So we are going to skip ahead and cover Class 6:  JQUERY
+    [Session 5/Class6 slide deck](https://docs.google.com/presentation/d/1s0t3pm3Eb__v3hQwAE8OcOI6z9oOcXlnsHPjR_Ed1EU/edit?usp=sharing)
 
 
 
+### Ideas for improvements:
+- [ ] general preparations:  Ensure nametags, desk tents, NSS swag/stickers are laid out for the incoming students and they know which classroom to go to 
 
-### ideas for improvements:
-- [ ] general prep:  Ensure nametags, desk tents, arrow pointing the way to the correct classroom is posted at the elevators, NSS swag/stickers are laid out for the incoming students
+- [ ] First day of class(Sat):  Build a mockup of the exercise, using escape characters to flesh out html elements like:  **&lt;** h1 **&gt;** h1 element **&lt;** /h1 **&gt;**
 
-- [ ] First day of class:  Build a mockup of the exercise, using escape characters to flesh out html elements like:  **&lt;** h1 **&gt;** h1 element **&lt;** /h1 **&gt;**
+- [ ] Second day of class(Mon):  Find a way to illustrate a "before" and "after" version of the CSS exercise with the fabulous romper and okay door, so students can see what their goal is
 
-- [ ] Second day of class:  Find a way to illustrate a "before" and "after" version of the CSS exercise with the fabulous romper and okay door, so students can see what their goal is
+- [ ] third day of class(Wed) (i was absent)
 
-- [ ] third day of class i was absent
+- [ ] fourth day of class improvements(Sat):  
 
-- [ ] fourth day of class improvements
-
-- [ ] fifth day of class improvements:
+- [ ] fifth day of class improvements(Mon/jQuery): time management; we only made it through the first 2 mini challenges out of 4.  
