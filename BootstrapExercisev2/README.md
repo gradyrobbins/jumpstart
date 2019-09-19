@@ -14,4 +14,4 @@ All Javascript should be in a main javascript file (main.js)
 Create a navigation bar that links to each of the pages correctly. The navigation bar should appear on each page. You can use your own styling or a Bootstrap nav bar.
 
 
-![Result](./E7Part1.png)
+![Result](./E7_Part1.png)
