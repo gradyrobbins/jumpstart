@@ -29,7 +29,7 @@
 
 - [ ] Fifth day of class(3 hours of classtime):  today we adjusted the syllabus on scheduling conflicts with guest speaker;  So we are going to skip ahead and cover Class 6:  JQUERY
     [Session 5/Class6 slide deck](https://docs.google.com/presentation/d/1s0t3pm3Eb__v3hQwAE8OcOI6z9oOcXlnsHPjR_Ed1EU/edit?usp=sharing)
-
+ - [ ] Sixth day (3hrs) Review and minichallenges 3 and 4 for the JQUERY lesson; then on to BOOTSTRAP
 
 
 ### Ideas for improvements:
