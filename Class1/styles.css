@@ -9,6 +9,18 @@ body {font-family: helvetica, arial, sans-serif;
     margin: 20px;
 }
 
+li {
+  line-height: 2em;
+}
+
+span:hover  {
+  font-size: 2em;
+}
+
+/* #a:hover ~ #b {
+  background: #ccc
+} */
+
 .footer {
   position: fixed;
   left: 0;
