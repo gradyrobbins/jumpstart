@@ -35,21 +35,36 @@ span:hover  {
 
 .instructions {
   display: flex;
-  padding: 3px;
-  margin: 3px;
+  align-items: stretch;
+  align-content: center;
+  /* padding: 3px; */
+  /* margin: 3px; */
   background-color: lightskyblue;
 }
 
 .item {
+  font-size: 0.8em;
+  margin: 4px;
+  padding:15px 5px ;
   flex-grow: 3;
+    line-height: 1.2em;
+    text-align: justify;
 }
-
+.instructions h2 {
+  color:blue;
+  text-align:left;
+  font-size: xx-large;
+  border: 2px solid black;
+}
+.instructions h6 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  border: 2px solid black;
+}
 .wireframe {
   padding: 10px;
   margin: 10px;
   border: 5px solid black;
 }
-
 
 .tab {
   padding-left:2em
