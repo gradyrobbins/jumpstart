@@ -1,6 +1,8 @@
 
-body {font-family: helvetica, arial, sans-serif;
+body {font-family: 'Noto Serif KR', serif, helvetica, arial, sans-serif;
     font-size: 1.25em;}
+
+
 
 #display-container {
     background-color: #787878;
@@ -10,6 +12,7 @@ body {font-family: helvetica, arial, sans-serif;
 }
 
 li {
+
   line-height: 2em;
 }
 
@@ -37,6 +40,7 @@ span:hover  {
   display: flex;
   align-items: stretch;
   align-content: center;
+  font-family: 'Patrick Hand SC', cursive;
   /* padding: 3px; */
   /* margin: 3px; */
   background-color: lightskyblue;
@@ -57,7 +61,7 @@ span:hover  {
   border: 2px solid black;
 }
 .instructions h6 {
-  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  /* font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; */
   border: 2px solid black;
 }
 .wireframe {
