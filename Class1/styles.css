@@ -11,14 +11,16 @@ body {font-family: 'Noto Serif KR', serif, helvetica, arial, sans-serif;
     margin: 20px;
 }
 
-li {
+/* li {
 
   line-height: 2em;
-}
-
-span:hover  {
+} */
+/* nav {
+  display: flex;
+} */
+/* span:hover  {
   font-size: 2em;
-}
+} */
 
 /* #a:hover ~ #b {
   background: #ccc
@@ -40,10 +42,10 @@ span:hover  {
   display: flex;
   align-items: stretch;
   align-content: center;
-  font-family: 'Patrick Hand SC', cursive;
+  /* font-family: 'Patrick Hand SC', cursive; */
   /* padding: 3px; */
   /* margin: 3px; */
-  background-color: lightskyblue;
+
 }
 
 .item {
@@ -55,7 +57,7 @@ span:hover  {
     text-align: justify;
 }
 .instructions h2 {
-  color:blue;
+
   text-align:left;
   font-size: xx-large;
   border: 2px solid black;
@@ -76,4 +78,30 @@ span:hover  {
 
 .doubletab {
   padding-left:3em
+}
+
+
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
 }
