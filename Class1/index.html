@@ -1,46 +1,66 @@
-<!DOCTYPE html>
 <!-- Jumpstart lesson 1 -->
+<!DOCTYPE html>
 
-<!-- Basic HTML tag/element which contains all of the HTML in your page  -->
 <html lang="en">
+<!-- Basic HTML tag/element which contains all of the HTML in your page  -->
 
-<!-- The head tag/element contains title for the document, scripts, styles, meta information, and more  ***None of these things will be visible in your page-->
 <head>
-  <!-- The "meta" is info in the head. charset = character set utf-8 is character encoding capable of encoding all characters on the web. ... Because it is the default all modern browsers will use utf-8 without being explicitly told to do so. It remains in meta data as a common good practice. -->
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta http-equiv="X-UA-Compatible" content="ie=edge">
-  <!--  The <title> tag is required in all HTML documents - defines a title in the browser toolbar, provides a title for the page when it is added to favorites, displays a title for the page in search-engine results  -->
-  <title>Class 1 </title>
-  <!--  links your css styles  -->
-  <link rel="stylesheet" href="./styles.css">
+    <!-- The head tag/element contains title for the document, scripts, styles, meta information, and more  ***None of these things will be visible in your page-->
+
+    <meta charset="UTF-8">
+    <!-- The "meta" is info in the head. charset = character set utf-8 is character encoding capable of encoding all characters on the web. ... Because it is the default all modern browsers will use utf-8 without being explicitly told to do so. It remains in meta data as a common good practice. -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+
+    <title>Class 1 </title>
+    <!--  The <title> tag is required in all HTML documents - defines a title in the browser toolbar, provides a title for the page when it is added to favorites, displays a title for the page in search-engine results  -->
+
+    <!-- Google fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Noto+Serif+KR|Patrick+Hand+SC&display=swap" rel="stylesheet">
+    <!--  links your css styles  -->
+    <link rel="stylesheet" href="./styles.css">
 </head>
 
-
-
-
-
-
-
-
-
-<!-- body tag: Contains visible contents of an HTML document, such as text, hyperlinks, images, tables, lists, etc (in addition it will contain links to JavaScript files, always just before closing the body tag -->
-
 <body>
+    <!-- body tag: Contains visible contents of an HTML document, such as text, hyperlinks, images, tables, lists, etc (in addition it will contain links to JavaScript files, always just before closing the body tag -->
 
-    <header>
-        <h1>Class 1 Lesson: </h1>
-    </header>
-
-    <nav>
-        <a href="https://codepen.io/nss-web-development-jumpstart/professor/gWVyMP/" target="_blank">
-            HTML101 </a>(links to an external codepen)<br><br>
-        <a href="https://codepen.io/nss-web-development-jumpstart/professor/gRONod/" target="_blank">
-            HTML102 </a>(links to an external codepen)<br><br>
-        <a href="exercises.html">Class 1 Exercises</a>
-    </nav>
-
+    <ul>
+        <li><span style="background-color: lightskyblue;">CLASS 1 LESSONS</span></li>
+        <li><a href="https://codepen.io/nss-web-development-jumpstart/professor/gWVyMP/" target="_blank">HTML101 (links
+                to an external codepen)</a></li>
+        <li><a href="https://codepen.io/nss-web-development-jumpstart/professor/gRONod/" target="_blank">HTML102 (links
+                to an external codepen)</a></li>
+    </ul>
     <br>
+    
+    <section class="instructions">
+        <h2 style="background-color: lightskyblue;">Class 1 INSTRUCTIONS: </h2>
+        <h5 class="item">Open up a new CodePen, and build a basic blog page that has 3 articles and any random topics
+            you want to talk about. The text can be anything, even placeholder text. Look at this <a
+                href="http://lorem-ipsum.perbang.dk/" target="blank">lorem ipsum generator</a> for an example of the
+            official-unofficial gibberish of web developers everywhere.
+        </h5>
+        <h6>The blog page should contain the following:</h6>
+    </section>
+
+    <ol>
+        <li>A page <span id="a" onmouseover="chbg('yellow', '2em', 'Patrick Hand SC')"
+                onmouseout="chbg('white', '', '')">header</span> containing the blog's title</li>
+        <li>A page <span id="c" onmouseover="chbg2('yellow', '2em')" onmouseout="chbg2('white', '')">footer</span>
+            containing the copyright notice (hint: google 'escape characters html' to find " &copy; " </li>
+        <li>Each <span id="e" onmouseover="chbg3('yellow', '2em')" onmouseout="chbg3('white', '')">article has a
+                header</span> containing a title</li>
+        <li>Each <span id="g" onmouseover="chbg4('yellow', '2em')" onmouseout="chbg4('white', '')">article has a
+                footer</span> containing the author and publication date</li>
+        <li>Each <span id="i" onmouseover="chbg5('yellow', '1.4em')" onmouseout="chbg5('white', '')">article has at
+                least one section</span></li>
+    </ol>
+
+
+
+
+
 
 
     <hr>
@@ -52,7 +72,7 @@
     </footer>
 
 
-
+    <script src="main.js"></script>
 </body>
 
 </html>

@@ -1,7 +1,8 @@
 console.log("hello main.js")
 
-function chbg(color, size) {
+function chbg(color, size, font) {
     document.getElementById("a").style.backgroundColor = color;
+    document.getElementById("b").style.fontFamily = font;
     document.getElementById("b").style.backgroundColor = color;
     document.getElementById("b").style.fontSize = size;
 }
