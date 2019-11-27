@@ -1,7 +1,7 @@
 
 body {font-family: 'Noto Serif KR', serif, helvetica, arial, sans-serif;
     font-size: 1.25em;
-    overflow: hidden;
+
   }
 
 
@@ -13,31 +13,19 @@ body {font-family: 'Noto Serif KR', serif, helvetica, arial, sans-serif;
     margin: 20px;
 }
 
-/* li {
 
-  line-height: 2em;
-} */
-/* nav {
-  display: flex;
-} */
-/* span:hover  {
-  font-size: 2em;
-} */
-
-/* #a:hover ~ #b {
-  background: #ccc
-} */
 
 .footer {
+  display: flex;
+justify-content: space-around;
   position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
   background-color: #333;
   color: white;
-  display: flex;
-justify-content: space-around;
   margin: 0 25px 0 0 ;
+  padding: 0 25px 0 0 ;
 }
 footer a {
   color: white;
@@ -62,6 +50,11 @@ footer a {
     text-align: justify;
     text-justify: auto;
 }
+.wavy {
+  text-decoration-line: underline;
+                text-decoration-style: wavy;
+}
+
 .instructions h2 {
 
   text-align:left;
@@ -73,6 +66,7 @@ footer a {
   padding: 10px;
   margin: 10px;
   border: 5px solid black;
+  font-size: x-small;
 }
 
 .tab {
