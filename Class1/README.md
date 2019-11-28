@@ -1,9 +1,6 @@
 # CLASS 1 :
 
-
-
 ## LESSON
-
 - [ ] Topic: How does Codepen work?
 [demo](https://codepen.io/nss-web-development-jumpstart/professor/EXxBEZ/)
 
@@ -12,6 +9,9 @@
 Learn how to build and structure webpages using semantic markup in HTML5. We'll cover the basic building blocks to create the skeleton for your website.
 
 - [ ] Topic: [HTML 101 ](https://codepen.io/nss-web-development-jumpstart/professor/gWVyMP/)
+
+- [ ] HTML101 mini challenge[Mini Challenge 1 START](https://codepen.io/gradyrobbins/pen/yEYxZe)
+- [ ] HTML101 mini challenge - solution[Mini Challenge 1 MVP](https://codepen.io/gradyrobbins/pen/NWWQeeB)
 
 - [ ] Topic: [HTML 102 ](https://codepen.io/nss-web-development-jumpstart/professor/gRONod/?editors=1000)
 
