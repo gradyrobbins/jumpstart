@@ -35,7 +35,7 @@
 ### Ideas for improvements:
 - [ ] general preparations:  Ensure nametags, desk tents, NSS swag/stickers are laid out for the incoming students and they know which classroom to go to 
 
-- [ ] First day of class(Sat):  Build a mockup of the exercise, using escape characters to flesh out html elements like:  **&lt;** h1 **&gt;** h1 element **&lt;** /h1 **&gt;**
+- [x] First day of class(Sat):  Build a mockup of the exercise, using escape characters to flesh out html elements like:  **&lt;** h1 **&gt;** h1 element **&lt;** /h1 **&gt;** UPDATED 11/2019
 
 - [ ] Second day of class(Mon):  Find a way to illustrate a "before" and "after" version of the CSS exercise with the fabulous romper and okay door, so students can see what their goal is
 
