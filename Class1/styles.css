@@ -48,17 +48,12 @@ footer a {
   flex-grow: 3;
     line-height: 1.2em;
     text-align: justify;
-    text-justify: auto;
 }
-.wavy {
-  text-decoration-line: underline;
-                text-decoration-style: wavy;
-}
+
 
 .instructions h2 {
 
   text-align:left;
-  font-size: xx-large;
   border: 2px solid black;
 }
 
@@ -88,7 +83,7 @@ ul {
 }
 
 ol > li {
-    list-style: decimal-leading-zero ;
+    list-style: decimal ;
 }
 
 li {
