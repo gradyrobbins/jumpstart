@@ -48,23 +48,17 @@ footer a {
   flex-grow: 3;
     line-height: 1.2em;
     text-align: justify;
-    text-justify: auto;
 }
-.wavy {
-  text-decoration-line: underline;
-                text-decoration-style: wavy;
-}
+
 
 .instructions h2 {
 
   text-align:left;
-  font-size: xx-large;
   border: 2px solid black;
 }
 
 .wireframe {
-  padding: 10px;
-  margin: 10px;
+
   border: 5px solid black;
   font-size: x-small;
 }
@@ -86,9 +80,11 @@ ul {
   overflow: hidden;
   background-color: #333;
 }
-
+ol {
+  overflow: hidden;
+}
 ol > li {
-    list-style: decimal-leading-zero ;
+    list-style: decimal ;
 }
 
 li {
