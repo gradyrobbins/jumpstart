@@ -4,7 +4,7 @@
 
 
 ### PREREQUISITES:
-1. Chrome browser installed
+1. Chrome browser [installed](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en)
 2. Register for a [Slack](https://slack.com/) account
 3. Register for a [Codepen](www.codepen.io) account ; 
 
