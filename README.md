@@ -6,7 +6,7 @@
 ### PREREQUISITES:
 1. Chrome browser installed
 2. Register for a [Slack](https://slack.com/) account
-3. Register for a [Codepen](www.codepen.io) account; "pro" plan is recommended ~ $12/month
+3. Register for a [Codepen](www.codepen.io) account ; 
 
 
 ### CURRICULUM:
@@ -35,12 +35,12 @@
 ### Ideas for improvements:
 - [ ] general preparations:  Ensure nametags, desk tents, NSS swag/stickers are laid out for the incoming students and they know which classroom to go to 
 
-- [x] First day of class(Sat):  Build a mockup of the exercise, using escape characters to flesh out html elements like:  **&lt;** h1 **&gt;** h1 element **&lt;** /h1 **&gt;** UPDATED 11/2019
+- [x] First day of class (Sat):  Build a wireframe of the exercise, using escape characters to illustrate html elements, for example:  **&lt;** h1 **&gt;** LOREMIPSUM **&lt;** /h1 **&gt;**    WIREFRAME ADDED 11/2019
 
-- [ ] Second day of class(Mon):  Find a way to illustrate a "before" and "after" version of the CSS exercise with the fabulous romper and okay door, so students can see what their goal is
+- [ ] Second day of class (Mon):  Illustrate a "before" and "after" version of the fabulous romper and okay door CSS exercise, so students can see what their goal is
 
-- [ ] third day of class(Wed) (i was absent)
+- [ ] Third day of class (Wed) (I was absent)
 
-- [ ] fourth day of class improvements(Sat):  
+- [ ] Fourth day of class improvements (Sat):  
 
-- [ ] fifth day of class improvements(Mon/jQuery): time management; we only made it through the first 2 mini challenges out of 4.  
+- [ ] Fifth day of class improvements (Mon/jQuery): time management; we only made it through the first 2 mini challenges out of 4.  
