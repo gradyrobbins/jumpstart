@@ -14,7 +14,9 @@ Learn how to build and structure webpages using semantic markup in HTML5. We'll 
 - [ ] HTML101 mini challenge - solution[Mini Challenge 1 MVP](https://codepen.io/gradyrobbins/pen/NWWQeeB)
 
 - [ ] Topic: [HTML 102 ](https://codepen.io/nss-web-development-jumpstart/professor/gRONod/?editors=1000)
+- [ ] HTML102 mini challenge[Mini Challenge 2 START]()
 
+- [ ] HTML102 mini challenge[Mini Challenge 2 MVP](https://codepen.io/gradyrobbins/pen/rNBJeGG)
 
 ## EXERCISES
 
