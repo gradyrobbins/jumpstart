@@ -34,7 +34,7 @@
 
 
 ### Ideas for improvements:
-- [ ] general preparations:  Ensure nametags, desk tents, NSS swag/stickers are laid out for the incoming students and they know which classroom to go to 
+- [ ] general preparations:  Ensure nametags, desk tents, NSS swag/stickers are laid out for the incoming students and they know which classroom to go to
 
 - [x] First day of class (Sat):  Build a wireframe of the exercise, using escape characters to illustrate html elements, for example:  **&lt;** h1 **&gt;** LOREMIPSUM **&lt;** /h1 **&gt;**    WIREFRAME ADDED 11/2019
 
@@ -42,6 +42,7 @@
 
 - [ ] Third day of class (Wed) (I was absent)
 
-- [ ] Fourth day of class improvements (Sat):  
+- [ ] Fourth day of class improvements (Sat):
 
-- [ ] Fifth day of class improvements (Mon/jQuery): time management; we only made it through the first 2 mini challenges out of 4.  
+- [ ] Fifth day of class improvements (Mon/jQuery): time management; we only made it through the first 2 mini challenges out of 4.
+
