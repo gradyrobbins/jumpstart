@@ -34,10 +34,7 @@ footer a {
   display: flex;
   align-items: stretch;
   align-content: center;
-  /* font-family: 'Patrick Hand SC', cursive; */
-  /* padding: 3px; */
-  /* margin: 3px; */
-
+  align-items: center;
 }
 
 .item {
