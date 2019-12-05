@@ -38,7 +38,7 @@
 
 - [x] First day of class (Sat):  Build a wireframe of the exercise, using escape characters to illustrate html elements, for example:  **&lt;** h1 **&gt;** LOREMIPSUM **&lt;** /h1 **&gt;**    WIREFRAME ADDED 11/2019
 
-- [ ] Second day of class (Mon):  Illustrate a "before" and "after" version of the fabulous romper and okay door CSS exercise, so students can see what their goal is
+- [x] Second day of class (Mon):  Illustrate a "before" and "after" version of the fabulous romper and okay door CSS exercise, so students can see what their goal is ;  ADDED .jpg to class2/exercises.html DECEMBER 2019
 
 - [ ] Third day of class (Wed) (I was absent)
 
