@@ -1,0 +1,37 @@
+.float-me-left {
+    width: 40%;
+    float: left;
+  }
+
+  .float-me-left img {
+    width: 50%;
+  }
+
+  .float-me-right {
+    width: 40%;
+    float: right;
+  }
+
+  .float-me-right img {
+    width: 50%;
+  }
+
+  .clearfix {
+    clear: both;
+  }
+
+  .main-container h1 {
+    font-family: 'Luckiest Guy',  Helvetica, cursive;
+  }
+
+  .main-container > h1 {
+    color: blue;
+  }
+
+  .main-container {
+    width: 80%;
+    background-color: goldenrod;
+    border: 5px solid yellow;
+    margin: 0 auto;
+    padding: 30px;
+  }
